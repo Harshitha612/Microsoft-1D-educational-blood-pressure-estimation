@@ -1,4 +1,4 @@
-"""Export PPG-only NeuroKit2 features from the prepared split archive."""
+
 
 from __future__ import annotations
 
